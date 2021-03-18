@@ -14,13 +14,8 @@ Uso:
 - Compile o código: javac * .java
 - Inicie o Chat Server a partir da linha de comando: java ChatServer
 - Inicie um cliente a partir da linha de comando em uma máquina (terminal) diferente: Java Client
-- Digite o nome de usuário no campo de texto do canto superior esquerdo da janela de bate-papo do cliente e pressione o botão conectar (VERIFICAR IMAGEM 1)
+- Digite o nome de usuário no campo de texto do canto superior esquerdo da janela de bate-papo do cliente e pressione o botão conectar 
 - Inicie o 2º / 3º ou mais Clientes, usando as duas etapas acima.
-- Troque mensagens digitando no campo de texto inferior e pressionando o botão Enter do teclado (VERIFICAR IMAGEM 2).
+- Troque mensagens digitando no campo de texto inferior e pressionando o botão Enter do teclado 
 
 
-Screnshots: 
-- Na IMAGEM1 pode-se ver, na imagem, onde deve ser escrito o nome do usuário
-- Na IMAGEM2 pode-se ver, na imagem, onde deve ser escrito as mensagens do usuário
-- Na IMAGEM3 pode-se ver, na imagem, um exemplo do chat funcionando no terminal onde executou-se o server
-- Na IMAGEM3 pode-se ver, ainda, as diferentes threads dos Clients e suas mensagens
